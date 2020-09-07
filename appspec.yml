@@ -22,7 +22,7 @@
 #      type:
 #      range:
 #    type:
-      -
+#      -
 
 #hooks:
 # For each deployment lifecycle event, specify multiple "location" entries 
